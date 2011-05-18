@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 92
+MANIFEST
+build
+dist
+check-*
+*.ppm
+*.png
+shotfactory.log
+screenlog.0
+pv.exe
+reschangecon.exe
+
+END

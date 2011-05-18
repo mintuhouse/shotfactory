@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2453/trunk/shotfactory/shotfactory04/servers
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2261/trunk/shotfactory/shotfactory04/servers/__init__.py
+END
+filesystem.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2453/trunk/shotfactory/shotfactory04/servers/filesystem.py
+END
+xmlrpc.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2450/trunk/shotfactory/shotfactory04/servers/xmlrpc.py
+END

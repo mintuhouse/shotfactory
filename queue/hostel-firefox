@@ -1,0 +1,7 @@
+request Chronus-Firefox
+url http://gymkhana.iitb.ac.in/~hostel5/
+width 1440
+height 900
+bpp 24
+browser Firefox
+command firefox

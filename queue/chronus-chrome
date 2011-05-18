@@ -1,0 +1,7 @@
+request Chronus-Chrome
+url http://chronus.com/
+width 1440
+height 900
+bpp 24
+browser Chrome
+command google-chrome

@@ -1,0 +1,1740 @@
+Factory password: 
+/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py:28: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+  from md5 import md5
+/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py:29: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+  from sha import sha
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 316, in _main
+    server = XMLRPCServer(options)
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py", line 77, in __init__
+    challenge = self.server.nonces.challenge(self.factory)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1199, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1489, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1253, in request
+    return self._parse_response(h.getfile(), sock)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1392, in _parse_response
+    return u.close()
+  File "/usr/lib/python2.6/xmlrpclib.py", line 838, in close
+    raise Fault(**self._stack[0])
+xmlrpclib.Fault: <Fault 404: 'Factory not found with name=arun-desktop.'>
+Factory password: 
+/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py:28: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+  from md5 import md5
+/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py:29: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+  from sha import sha
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 316, in _main
+    server = XMLRPCServer(options)
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py", line 77, in __init__
+    challenge = self.server.nonces.challenge(self.factory)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1199, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1489, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1253, in request
+    return self._parse_response(h.getfile(), sock)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1392, in _parse_response
+    return u.close()
+  File "/usr/lib/python2.6/xmlrpclib.py", line 838, in close
+    raise Fault(**self._stack[0])
+xmlrpclib.Fault: <Fault 404: 'Factory not found with name=arun-desktop.'>
+Factory password: 
+/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py:28: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+  from md5 import md5
+/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py:29: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+  from sha import sha
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 316, in _main
+    server = XMLRPCServer(options)
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py", line 77, in __init__
+    challenge = self.server.nonces.challenge(self.factory)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1199, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1489, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1253, in request
+    return self._parse_response(h.getfile(), sock)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1392, in _parse_response
+    return u.close()
+  File "/usr/lib/python2.6/xmlrpclib.py", line 838, in close
+    raise Fault(**self._stack[0])
+xmlrpclib.Fault: <Fault 404: 'Factory not found with name=arun-desktop.'>
+Factory password: 
+/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py:28: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+  from md5 import md5
+/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py:29: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+  from sha import sha
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 316, in _main
+    server = XMLRPCServer(options)
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py", line 77, in __init__
+    challenge = self.server.nonces.challenge(self.factory)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1199, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1489, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1253, in request
+    return self._parse_response(h.getfile(), sock)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1392, in _parse_response
+    return u.close()
+  File "/usr/lib/python2.6/xmlrpclib.py", line 838, in close
+    raise Fault(**self._stack[0])
+xmlrpclib.Fault: <Fault 404: 'Factory not found with name=arun-desktop.'>
+Factory password: 
+/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py:28: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+  from md5 import md5
+/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py:29: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+  from sha import sha
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 316, in _main
+    server = XMLRPCServer(options)
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py", line 77, in __init__
+    challenge = self.server.nonces.challenge(self.factory)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1199, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1489, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1253, in request
+    return self._parse_response(h.getfile(), sock)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1392, in _parse_response
+    return u.close()
+  File "/usr/lib/python2.6/xmlrpclib.py", line 838, in close
+    raise Fault(**self._stack[0])
+xmlrpclib.Fault: <Fault 404: 'Factory not found with name=arun-desktop.'>
+Factory password: 
+/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py:28: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+  from md5 import md5
+/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py:29: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+  from sha import sha
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 316, in _main
+    server = XMLRPCServer(options)
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py", line 77, in __init__
+    challenge = self.server.nonces.challenge(self.factory)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1199, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1489, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1253, in request
+    return self._parse_response(h.getfile(), sock)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1392, in _parse_response
+    return u.close()
+  File "/usr/lib/python2.6/xmlrpclib.py", line 838, in close
+    raise Fault(**self._stack[0])
+xmlrpclib.Fault: <Fault 404: 'Factory not found with name=arun-desktop.'>
+Factory password: 
+/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py:28: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+  from md5 import md5
+/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py:29: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+  from sha import sha
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 316, in _main
+    server = XMLRPCServer(options)
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py", line 77, in __init__
+    challenge = self.server.nonces.challenge(self.factory)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1199, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1489, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1253, in request
+    return self._parse_response(h.getfile(), sock)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1392, in _parse_response
+    return u.close()
+  File "/usr/lib/python2.6/xmlrpclib.py", line 838, in close
+    raise Fault(**self._stack[0])
+xmlrpclib.Fault: <Fault 404: 'Factory not found with name=arun-desktop.'>
+Usage: shotfactory.py [options]
+
+Options:
+  --version             show program's version number and exit
+  -h, --help            show this help message and exit
+  -v, --verbose         more output (for trouble-shooting)
+  -P <password>, --password=<password>
+                        supply password on command line (insecure)
+  -F <path>, --password-file=<path>
+                        plaintext password file (default: .passwd)
+  -s <url>, --server=<url>
+                        server url (http://api.browsershots.org/)
+  -f <name>, --factory=<name>
+                        factory name (default: hostname)
+  -p <proxy>, --proxy=<proxy>
+                        use a HTTP proxy (default: environment)
+  -d <name>, --display=<name>
+                        run on a different display (default: :1)
+  -b <port>, --rfbport=<port>
+                        tcp port number used by VNC server for incoming
+                        connections (default: 5902)
+  -w <seconds>, --wait=<seconds>
+                        wait while page is loading (default: 30)
+  -l <limit>, --load-limit=<limit>
+                        system load limit (default: 1.0)
+  -u <megabytes>, --upload-limit=<megabytes>
+                        maximum megabytes per hour (default: 100)
+  -q <directory>, --queue=<directory>
+                        get requests from files, don't poll server
+  -o <directory>, --output=<directory>
+                        save screenshots locally, don't upload
+  -r <width> <folder>, --resize-output=<width> <folder>
+                        scale screenshots and save locally
+  -m <count>, --max-pages=<count>
+                        scroll down and merge screenshots (default: 7)
+  -V <max>, --reuse-vnc-server=<max>
+                        restart VNC server only after <max> requests
+  -B <max>, --reuse-browser=<max>
+                        restart browser only after <max> requests
+  -W <seconds>, --reuse-wait=<seconds>
+                        shorter wait time when reusing (default: --wait)
+Factory password: 
+/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py:28: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+  from md5 import md5
+/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py:29: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+  from sha import sha
+raceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 316, in _main
+    server = XMLRPCServer(options)
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py", line 77, in __init__
+    challenge = self.server.nonces.challenge(self.factory)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1199, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1489, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1253, in request
+    return self._parse_response(h.getfile(), sock)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1392, in _parse_response
+    return u.close()
+  File "/usr/lib/python2.6/xmlrpclib.py", line 838, in close
+    raise Fault(**self._stack[0])
+xmlrpclib.Fault: <Fault 404: 'Factory not found with name=arun-desktop.'>
+Factory password: 
+/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py:28: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+  from md5 import md5
+/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py:29: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+  from sha import sha
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 316, in _main
+    server = XMLRPCServer(options)
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/servers/xmlrpc.py", line 77, in __init__
+    challenge = self.server.nonces.challenge(self.factory)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1199, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1489, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1253, in request
+    return self._parse_response(h.getfile(), sock)
+  File "/usr/lib/python2.6/xmlrpclib.py", line 1392, in _parse_response
+    return u.close()
+  File "/usr/lib/python2.6/xmlrpclib.py", line 838, in close
+    raise Fault(**self._stack[0])
+xmlrpclib.Fault: <Fault 404: 'Factory not found with name=arun-desktop.'>
+============================== 12:23:07 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': '123', 'filename': 'abc', 'width': 1024, 'command': 'firefox', 'height': 768, 'browser': 'Firefox'}
+Running firefox "http://gymkhana.iitb.ac.in/~hostel5/" &
+Sleeping 30 seconds while page is loading.
+123-pgdn01.ppm 0 591 591 591
+123-pgdn02.ppm 534 649 115 706
+123-pgdn03.ppm 358 768 410 1116
+============================== 12:23:42 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': '123', 'filename': 'abc', 'width': 1024, 'command': 'firefox', 'height': 768, 'browser': 'Firefox'}
+Running firefox "http://gymkhana.iitb.ac.in/~hostel5/" &
+Sleeping 30 seconds while page is loading.
+123-pgdn01.ppm 0 591 591 591
+123-pgdn02.ppm 534 649 115 706
+123-pgdn03.ppm 358 768 410 1116
+============================== 12:24:17 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': '123', 'filename': 'abc', 'width': 1024, 'command': 'firefox', 'height': 768, 'browser': 'Firefox'}
+Running firefox "http://gymkhana.iitb.ac.in/~hostel5/" &
+Sleeping 30 seconds while page is loading.
+123-pgdn01.ppm 0 591 591 591
+123-pgdn02.ppm 534 649 115 706
+123-pgdn03.ppm 358 768 410 1116
+============================== 12:24:53 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': '123', 'filename': 'abc', 'width': 1024, 'command': 'firefox', 'height': 768, 'browser': 'Firefox'}
+Running firefox "http://gymkhana.iitb.ac.in/~hostel5/" &
+Sleeping 30 seconds while page is loading.
+123-pgdn01.ppm 0 591 591 591
+123-pgdn02.ppm 534 649 115 706
+123-pgdn03.ppm 358 768 410 1116
+============================== 12:25:28 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': '123', 'filename': 'abc', 'width': 1024, 'command': 'firefox', 'height': 768, 'browser': 'Firefox'}
+Running firefox "http://gymkhana.iitb.ac.in/~hostel5/" &
+Sleeping 30 seconds while page is loading.
+123-pgdn01.ppm 0 591 591 591
+123-pgdn02.ppm 534 649 115 706
+123-pgdn03.ppm 358 768 410 1116
+============================== 12:26:03 ==============================
+204 No matching request.
+============================== 12:27:03 ==============================
+204 No matching request.
+============================== 12:28:03 ==============================
+204 No matching request.
+============================== 12:29:03 ==============================
+204 No matching request.
+============================== 12:30:03 ==============================
+204 No matching request.
+============================== 12:31:03 ==============================
+204 No matching request.
+============================== 12:32:03 ==============================
+204 No matching request.
+============================== 12:33:03 ==============================
+204 No matching request.
+============================== 12:34:03 ==============================
+204 No matching request.
+============================== 12:35:04 ==============================
+204 No matching request.
+============================== 12:36:04 ==============================
+204 No matching request.
+============================== 12:37:04 ==============================
+204 No matching request.
+============================== 12:38:04 ==============================
+204 No matching request.
+============================== 12:39:04 ==============================
+204 No matching request.
+============================== 12:40:04 ==============================
+204 No matching request.
+============================== 12:41:04 ==============================
+204 No matching request.
+============================== 12:42:04 ==============================
+204 No matching request.
+============================== 12:43:04 ==============================
+204 No matching request.
+============================== 12:44:04 ==============================
+204 No matching request.
+============================== 12:45:04 ==============================
+204 No matching request.
+============================== 12:46:04 ==============================
+204 No matching request.
+============================== 12:47:04 ==============================
+204 No matching request.
+============================== 12:48:04 ==============================
+204 No matching request.
+============================== 12:49:04 ==============================
+204 No matching request.
+============================== 12:50:04 ==============================
+204 No matching request.
+============================== 12:51:04 ==============================
+204 No matching request.
+============================== 12:52:04 ==============================
+204 No matching request.
+============================== 12:53:05 ==============================
+204 No matching request.
+============================== 12:54:05 ==============================
+204 No matching request.
+============================== 12:55:05 ==============================
+204 No matching request.
+============================== 12:56:05 ==============================
+204 No matching request.
+============================== 12:57:05 ==============================
+204 No matching request.
+============================== 12:58:05 ==============================
+204 No matching request.
+============================== 12:59:05 ==============================
+204 No matching request.
+============================== 13:00:05 ==============================
+204 No matching request.
+============================== 13:01:05 ==============================
+204 No matching request.
+============================== 13:02:05 ==============================
+204 No matching request.
+============================== 13:03:05 ==============================
+204 No matching request.
+============================== 13:04:05 ==============================
+204 No matching request.
+============================== 13:05:05 ==============================
+204 No matching request.
+============================== 13:06:05 ==============================
+204 No matching request.
+============================== 13:07:05 ==============================
+204 No matching request.
+============================== 13:08:05 ==============================
+204 No matching request.
+============================== 13:09:06 ==============================
+204 No matching request.
+============================== 13:10:06 ==============================
+204 No matching request.
+============================== 13:11:06 ==============================
+204 No matching request.
+============================== 13:12:06 ==============================
+204 No matching request.
+============================== 13:13:06 ==============================
+204 No matching request.
+^Craceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 360, in _main
+    error_sleep("%d %s" % (fault.faultCode, fault.faultString))
+  File "shotfactory.py", line 180, in error_sleep
+    sleep()
+  File "shotfactory.py", line 61, in sleep
+    time.sleep(60)
+KeyboardInterrupt
+============================= 13:16:44 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus', 'width': 1024, 'command': 'google-chrome', 'height': 768, 'browser': 'Chrome'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+ImportError: No module named chrome
+============================== 13:16:54 ==============================
+204 No matching request.
+============================== 13:17:54 ==============================
+204 No matching request.
+^X^X^Craceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 360, in _main
+    error_sleep("%d %s" % (fault.faultCode, fault.faultString))
+  File "shotfactory.py", line 180, in error_sleep
+    sleep()
+  File "shotfactory.py", line 61, in sleep
+    time.sleep(60)
+KeyboardInterrupt
+============================== 13:18:46 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus', 'width': 1024, 'command': 'google-chrome', 'height': 768, 'browser': 'Chrome'}
+raceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+ImportError: No module named chrome
+============================== 13:19:12 ==============================
+204 No matching request.
+^^C^CTraceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 360, in _main
+    error_sleep("%d %s" % (fault.faultCode, fault.faultString))
+  File "shotfactory.py", line 180, in error_sleep
+    sleep()
+  File "shotfactory.py", line 61, in sleep
+    time.sleep(60)
+KeyboardInterrupt
+============================== 13:19:34 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus', 'width': 1024, 'command': 'google-chrome', 'height': 768, 'browser': 'Chrome'}
+raceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+ImportError: No module named chrome
+============================== 13:19:45 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus', 'width': 1024, 'command': 'google-chrome', 'height': 768, 'browser': 'Chrome'}
+raceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+ImportError: No module named chrome
+============================== 13:19:56 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus', 'width': 1024, 'command': 'google-chrome', 'height': 768, 'browser': 'Chrome'}
+raceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+ImportError: No module named chrome
+============================== 13:19:58 ==============================
+204 No matching request.
+^^C^CTraceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 360, in _main
+    error_sleep("%d %s" % (fault.faultCode, fault.faultString))
+  File "shotfactory.py", line 180, in error_sleep
+    sleep()
+  File "shotfactory.py", line 61, in sleep
+    time.sleep(60)
+KeyboardInterrupt
+============================== 13:20:31 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Firefox', 'filename': 'chronus', 'width': 1024, 'command': 'firefox', 'height': 768, 'browser': 'Firefox'}
+Running firefox "http://chronus.com/" &
+Sleeping 30 seconds while page is loading.
+Chronus-Firefox-pgdn01.ppm 0 591 591 591
+Chronus-Firefox-pgdn02.ppm 534 662 128 719
+Chronus-Firefox-pgdn03.ppm 320 662 342 1061
+Chronus-Firefox-pgdn04.ppm 320 653 333 1394
+Chronus-Firefox-pgdn05.ppm 346 768 422 1816
+============================== 13:21:08 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1024, 'command': 'google-chrome', 'height': 768, 'browser': 'Chrome'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+ImportError: No module named chrome
+============================== 13:21:57 ==============================
+204 No matching request.
+^Craceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 360, in _main
+    error_sleep("%d %s" % (fault.faultCode, fault.faultString))
+  File "shotfactory.py", line 180, in error_sleep
+    sleep()
+  File "shotfactory.py", line 61, in sleep
+    time.sleep(60)
+KeyboardInterrupt
+============================== 13:22:17 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1024, 'command': 'google-chrome', 'height': 768, 'browser': 'Chrome'}
+raceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+ImportError: No module named chrome
+============================== 13:22:36 ==============================
+204 No matching request.
+============================== 13:23:36 ==============================
+204 No matching request.
+============================== 13:24:36 ==============================
+204 No matching request.
+============================== 13:25:36 ==============================
+204 No matching request.
+============================== 13:26:36 ==============================
+204 No matching request.
+============================== 13:27:36 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1024, 'command': 'google-chrome', 'height': 768, 'browser': 'Chrome'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+ImportError: No module named chrome
+Usage: shotfactory.py [options]
+
+Options:
+  --version             show program's version number and exit
+  -h, --help            show this help message and exit
+  -v, --verbose         more output (for trouble-shooting)
+  -P <password>, --password=<password>
+                        supply password on command line (insecure)
+  -F <path>, --password-file=<path>
+                        plaintext password file (default: .passwd)
+  -s <url>, --server=<url>
+                        server url (http://api.browsershots.org/)
+  -f <name>, --factory=<name>
+                        factory name (default: hostname)
+  -p <proxy>, --proxy=<proxy>
+                        use a HTTP proxy (default: environment)
+  -d <name>, --display=<name>
+                        run on a different display (default: :1)
+  -b <port>, --rfbport=<port>
+                        tcp port number used by VNC server for incoming
+                        connections (default: 5902)
+  -w <seconds>, --wait=<seconds>
+                        wait while page is loading (default: 30)
+  -l <limit>, --load-limit=<limit>
+                        system load limit (default: 1.0)
+  -u <megabytes>, --upload-limit=<megabytes>
+                        maximum megabytes per hour (default: 100)
+  -q <directory>, --queue=<directory>
+                        get requests from files, don't poll server
+  -o <directory>, --output=<directory>
+                        save screenshots locally, don't upload
+  -r <width> <folder>, --resize-output=<width> <folder>
+                        scale screenshots and save locally
+  -m <count>, --max-pages=<count>
+                        scroll down and merge screenshots (default: 7)
+  -V <max>, --reuse-vnc-server=<max>
+                        restart VNC server only after <max> requests
+  -B <max>, --reuse-browser=<max>
+                        restart browser only after <max> requests
+  -W <seconds>, --reuse-wait=<seconds>
+                        shorter wait time when reusing (default: --wait)
+Usage: shotfactory.py [options]
+
+Options:
+  --version             show program's version number and exit
+  -h, --help            show this help message and exit
+  -v, --verbose         more output (for trouble-shooting)
+  -P <password>, --password=<password>
+                        supply password on command line (insecure)
+  -F <path>, --password-file=<path>
+                        plaintext password file (default: .passwd)
+  -s <url>, --server=<url>
+                        server url (http://api.browsershots.org/)
+  -f <name>, --factory=<name>
+                        factory name (default: hostname)
+  -p <proxy>, --proxy=<proxy>
+                        use a HTTP proxy (default: environment)
+  -d <name>, --display=<name>
+                        run on a different display (default: :1)
+  -b <port>, --rfbport=<port>
+                        tcp port number used by VNC server for incoming
+                        connections (default: 5902)
+  -w <seconds>, --wait=<seconds>
+                        wait while page is loading (default: 30)
+  -l <limit>, --load-limit=<limit>
+                        system load limit (default: 1.0)
+  -u <megabytes>, --upload-limit=<megabytes>
+                        maximum megabytes per hour (default: 100)
+  -q <directory>, --queue=<directory>
+                        get requests from files, don't poll server
+  -o <directory>, --output=<directory>
+                        save screenshots locally, don't upload
+  -r <width> <folder>, --resize-output=<width> <folder>
+                        scale screenshots and save locally
+  -m <count>, --max-pages=<count>
+                        scroll down and merge screenshots (default: 7)
+  -V <max>, --reuse-vnc-server=<max>
+                        restart VNC server only after <max> requests
+  -B <max>, --reuse-browser=<max>
+                        restart browser only after <max> requests
+  -W <seconds>, --reuse-wait=<seconds>
+                        shorter wait time when reusing (default: --wait)
+Usage: shotfactory.py [options]
+
+Options:
+  --version             show program's version number and exit
+  -h, --help            show this help message and exit
+  -v, --verbose         more output (for trouble-shooting)
+  -P <password>, --password=<password>
+                        supply password on command line (insecure)
+  -F <path>, --password-file=<path>
+                        plaintext password file (default: .passwd)
+  -s <url>, --server=<url>
+                        server url (http://api.browsershots.org/)
+  -f <name>, --factory=<name>
+                        factory name (default: hostname)
+  -p <proxy>, --proxy=<proxy>
+                        use a HTTP proxy (default: environment)
+  -d <name>, --display=<name>
+                        run on a different display (default: :1)
+  -b <port>, --rfbport=<port>
+                        tcp port number used by VNC server for incoming
+                        connections (default: 5902)
+  -w <seconds>, --wait=<seconds>
+                        wait while page is loading (default: 30)
+  -l <limit>, --load-limit=<limit>
+                        system load limit (default: 1.0)
+  -u <megabytes>, --upload-limit=<megabytes>
+                        maximum megabytes per hour (default: 100)
+  -q <directory>, --queue=<directory>
+                        get requests from files, don't poll server
+  -o <directory>, --output=<directory>
+                        save screenshots locally, don't upload
+  -r <width> <folder>, --resize-output=<width> <folder>
+                        scale screenshots and save locally
+  -m <count>, --max-pages=<count>
+                        scroll down and merge screenshots (default: 7)
+  -V <max>, --reuse-vnc-server=<max>
+                        restart VNC server only after <max> requests
+  -B <max>, --reuse-browser=<max>
+                        restart browser only after <max> requests
+  -W <seconds>, --reuse-wait=<seconds>
+                        shorter wait time when reusing (default: --wait)
+sage: shotfactory.py [options]
+
+shotfactory.py: error: no such option: --hehbvh
+============================== 13:33:25 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1024, 'command': 'google-chrome', 'height': 768, 'browser': 'Chrome'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+ImportError: No module named chrome
+============================== 13:33:27 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1024, 'command': 'google-chrome', 'height': 768, 'browser': 'Chrome'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+ImportError: No module named chrome
+============================== 13:33:28 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Firefox', 'filename': 'chronus', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Running firefox "http://chronus.com/" &
+Sleeping 30 seconds while page is loading.
+Chronus-Firefox-pgdn01.ppm 0 694 694 694
+Chronus-Firefox-pgdn02.ppm 618 775 157 851
+Chronus-Firefox-pgdn03.ppm 376 775 399 1250
+Chronus-Firefox-pgdn04.ppm 376 700 324 1574
+Chronus-Firefox-pgdn05.ppm 602 900 298 1872
+============================== 13:34:05 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'queue1', 'filename': 'queue1', 'width': 1024, 'command': '', 'browser': 'Firefox'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 130, in browsershot
+    gui = gui_module.Gui(config, options)
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/__init__.py", line 46, in __init__
+    self.height = config['height']
+KeyError: 'height'
+============================== 13:34:44 ==============================
+204 No matching request.
+============================== 13:35:44 ==============================
+204 No matching request.
+============================== 13:36:44 ==============================
+204 No matching request.
+============================== 13:37:44 ==============================
+204 No matching request.
+^CTraceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 360, in _main
+    error_sleep("%d %s" % (fault.faultCode, fault.faultString))
+  File "shotfactory.py", line 180, in error_sleep
+    sleep()
+  File "shotfactory.py", line 61, in sleep
+    time.sleep(60)
+KeyboardInterrupt
+============================== 13:37:54 ==============================
+204 No matching request.
+^CTraceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 360, in _main
+    error_sleep("%d %s" % (fault.faultCode, fault.faultString))
+  File "shotfactory.py", line 180, in error_sleep
+    sleep()
+  File "shotfactory.py", line 61, in sleep
+    time.sleep(60)
+KeyboardInterrupt
+============================== 13:38:12 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1024, 'command': 'google-chrome', 'height': 768, 'browser': 'Chrome'}
+raceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+ImportError: No module named chrome
+============================== 13:38:16 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'queue1', 'filename': 'queue1', 'width': 1024, 'command': '', 'browser': 'Firefox'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 130, in browsershot
+    gui = gui_module.Gui(config, options)
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/__init__.py", line 46, in __init__
+    self.height = config['height']
+KeyError: 'height'
+============================== 13:38:20 ==============================
+204 No matching request.
+============================== 13:39:20 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-FF', 'filename': 'ff', 'width': 1024, 'command': 'firefox', 'height': 768, 'browser': 'Firefox'}
+Running firefox "http://chronus.com/" &
+Sleeping 30 seconds while page is loading.
+Chronus-FF-pgdn01.ppm 0 591 591 591
+Chronus-FF-pgdn02.ppm 534 662 128 719
+Chronus-FF-pgdn03.ppm 320 662 342 1061
+Chronus-FF-pgdn04.ppm 320 652 332 1393
+Chronus-FF-pgdn05.ppm 350 768 418 1811
+============================== 13:39:56 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-FF23', 'filename': 'dsdf', 'width': 1024, 'command': 'firefox', 'height': 768, 'browser': 'Firefox'}
+Running firefox "http://chronus.com/" &
+Sleeping 30 seconds while page is loading.
+Chronus-FF23-pgdn01.ppm 0 591 591 591
+Chronus-FF23-pgdn02.ppm 534 662 128 719
+Chronus-FF23-pgdn03.ppm 320 662 342 1061
+Chronus-FF23-pgdn04.ppm 320 652 332 1393
+Chronus-FF23-pgdn05.ppm 350 768 418 1811
+============================= 13:40:33 ==============================
+{'bpp': 24, 'request': '4sfdf', 'filename': '4sfdf', 'width': 1024, 'command': '', 'browser': 'Firefox'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 130, in browsershot
+    gui = gui_module.Gui(config, options)
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/__init__.py", line 46, in __init__
+    self.height = config['height']
+KeyError: 'height'
+============================== 13:40:55 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-FF23', 'filename': '4sfdf', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Running firefox "http://chronus.com/" &
+Sleeping 30 seconds while page is loading.
+Chronus-FF23-pgdn01.ppm 0 694 694 694
+Chronus-FF23-pgdn02.ppm 618 775 157 851
+Chronus-FF23-pgdn03.ppm 376 775 399 1250
+Chronus-FF23-pgdn04.ppm 376 685 309 1559
+Chronus-FF23-pgdn05.ppm 648 900 252 1811
+============================== 13:41:32 ==============================
+204 No matching request.
+============================== 13:42:32 ==============================
+204 No matching request.
+============================== 13:43:32 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1024, 'command': 'google-chrome', 'height': 768, 'browser': 'Chrome'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+ImportError: No module named chrome
+============================== 13:44:02 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'queue1', 'filename': 'queue1', 'width': 1024, 'command': '', 'browser': 'Firefox'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 130, in browsershot
+   gui = gui_module.Gui(config, options)
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/__init__.py", line 46, in __init__
+    self.height = config['height']
+KeyError: 'height'
+============================== 13:44:04 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'Chronus-FF23', 'filename': '4sfdf', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Running firefox "http://gymkhana.iitb.ac.in/~hostel5/" &
+Sleeping 30 seconds while page is loading.
+Chronus-FF23-pgdn01.ppm 0 694 694 694
+Chronus-FF23-pgdn02.ppm 618 709 91 785
+Chronus-FF23-pgdn03.ppm 574 900 326 1111
+============================== 13:44:39 ==============================
+204 No matching request.
+============================= 13:45:39 ==============================
+{'bpp': 24, 'request': '4sfdf', 'filename': '4sfdf', 'width': 1024, 'command': '', 'browser': 'Firefox'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 130, in browsershot
+    gui = gui_module.Gui(config, options)
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/__init__.py", line 46, in __init__
+    self.height = config['height']
+KeyError: 'height'
+============================== 13:46:07 ==============================
+204 No matching request.
+^CTraceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 360, in _main
+    error_sleep("%d %s" % (fault.faultCode, fault.faultString))
+  File "shotfactory.py", line 180, in error_sleep
+    sleep()
+  File "shotfactory.py", line 61, in sleep
+    time.sleep(60)
+KeyboardInterrupt
+============================== 13:46:24 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'Chronus-FF23', 'filename': '4sfdf', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Running firefox "http://gymkhana.iitb.ac.in/~hostel5/" &
+Sleeping 30 seconds while page is loading.
+Chronus-FF23-pgdn01.ppm 0 694 694 694
+Chronus-FF23-pgdn02.ppm 618 709 91 785
+Chronus-FF23-pgdn03.ppm 574 900 326 1111
+============================== 13:46:59 ==============================
+204 No matching request.
+^X^Craceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 360, in _main
+    error_sleep("%d %s" % (fault.faultCode, fault.faultString))
+  File "shotfactory.py", line 180, in error_sleep
+    sleep()
+  File "shotfactory.py", line 61, in sleep
+    time.sleep(60)
+KeyboardInterrupt
+============================== 13:47:30 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'iitb-FF23', 'filename': '4sfdf', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Running firefox "http://gymkhana.iitb.ac.in/~hostel5/" &
+Sleeping 30 seconds while page is loading.
+^^C^CTraceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 147, in browsershot
+    gui.start_browser(config, url, options)
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/__init__.py", line 140, in start_browser
+    time.sleep(options.wait - 10)
+KeyboardInterrupt
+============================== 13:47:48 ==============================
+204 No matching request.
+============================== 13:48:48 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1024, 'command': 'google-chrome', 'height': 768, 'browser': 'Chrome'}
+raceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+ImportError: No module named chrome
+============================== 13:51:52 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'iitb-FF23', 'filename': '4sfdf', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/Cache
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/sessionstore.js
+Deleting /home/arun/.mozilla/firefox/Crash Reports
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/minidumps
+Running firefox "http://gymkhana.iitb.ac.in/~hostel5/" &
+Sleeping 30 seconds while page is loading.
+19 pixels/keypress, 21 keypresses/scroll
+14 pixels/keypress, 29 keypresses/scroll
+iitb-FF23-pgdn01.ppm 0 694 694 694
+iitb-FF23-pgdn02.ppm 618 775 157 851
+iitb-FF23-pgdn03.ppm 376 751 375 1226
+iitb-FF23-pgdn04.ppm 448 900 452 1678
+============================== 13:52:28 ==============================
+{'bpp': 1, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'Hostel5-Firefox', 'filename': 'hostel', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+vncserver error (attempt 1 out of 3)
+vncserver error (attempt 2 out of 3)
+vncserver error (attempt 3 out of 3)
+Trying to kill old VNC server
+Traceback (most recent call last):
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 145, in browsershot
+    gui.prepare_screen()
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/__init__.py", line 56, in prepare_screen
+    raise RuntimeError("could not start vncserver")
+RuntimeError: could not start vncserver
+Could not start vncserver.
+^Craceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 364, in _main
+    error_sleep(str(message))
+  File "shotfactory.py", line 180, in error_sleep
+    sleep()
+  File "shotfactory.py", line 61, in sleep
+    time.sleep(60)
+KeyboardInterrupt
+============================== 13:53:06 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'Hostel5-Firefox', 'filename': 'hostel', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/Cache
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/sessionstore.js
+Deleting /home/arun/.mozilla/firefox/Crash Reports
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/minidumps
+Running firefox "http://gymkhana.iitb.ac.in/~hostel5/" &
+Sleeping 30 seconds while page is loading.
+19 pixels/keypress, 21 keypresses/scroll
+14 pixels/keypress, 29 keypresses/scroll
+Hostel5-Firefox-pgdn01.ppm 0 694 694 694
+Hostel5-Firefox-pgdn02.ppm 618 775 157 851
+Hostel5-Firefox-pgdn03.ppm 376 751 375 1226
+Hostel5-Firefox-pgdn04.ppm 448 900 452 1678
+============================== 13:53:42 ==============================
+204 No matching request.
+============================== 13:54:42 ==============================
+204 No matching request.
+============================== 13:55:42 ==============================
+204 No matching request.
+============================== 13:56:42 ==============================
+204 No matching request.
+============================== 13:57:42 ==============================
+{'bpp': 1, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'Hostel5-Firefox', 'filename': 'hostel', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+vncserver error (attempt 1 out of 3)
+vncserver error (attempt 2 out of 3)
+vncserver error (attempt 3 out of 3)
+Trying to kill old VNC server
+Traceback (most recent call last):
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 145, in browsershot
+    gui.prepare_screen()
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/__init__.py", line 56, in prepare_screen
+    raise RuntimeError("could not start vncserver")
+RuntimeError: could not start vncserver
+Could not start vncserver.
+^Craceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 364, in _main
+    error_sleep(str(message))
+  File "shotfactory.py", line 180, in error_sleep
+    sleep()
+  File "shotfactory.py", line 61, in sleep
+    time.sleep(30)
+KeyboardInterrupt
+============================== 13:58:36 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Firefox', 'filename': 'chronus', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/Cache
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/sessionstore.js
+Deleting /home/arun/.mozilla/firefox/Crash Reports
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/minidumps
+Running firefox "http://chronus.com/" &
+Sleeping 10 seconds while page is loading.
+Chronus-Firefox-pgdn01.ppm 0 900 900 900
+============================== 13:58:50 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'Hostel5-Firefox', 'filename': 'hostel', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Deleting /home/arun/.mozilla/firefox/Crash Reports
+Running firefox "http://gymkhana.iitb.ac.in/~hostel5/" &
+Sleeping 10 seconds while page is loading.
+Hostel5-Firefox-pgdn01.ppm 0 900 900 900
+============================== 13:59:04 ==============================
+204 No matching request.
+============================== 13:59:34 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Firefox', 'filename': 'chronus', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/sessionstore.js
+Deleting /home/arun/.mozilla/firefox/Crash Reports
+Running firefox "http://chronus.com/" &
+Sleeping 10 seconds while page is loading.
+19 pixels/keypress, 21 keypresses/scroll
+1 pixels/keypress, 40 keypresses/scroll
+Chronus-Firefox-pgdn01.ppm 0 694 694 694
+Chronus-Firefox-pgdn02.ppm 618 775 157 851
+Chronus-Firefox-pgdn03.ppm 376 775 399 1250
+Chronus-Firefox-pgdn04.ppm 376 685 309 1559
+Chronus-Firefox-pgdn05.ppm 648 900 252 1811
+============================== 13:59:51 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'Hostel5-Firefox', 'filename': 'hostel', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/Cache
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/sessionstore.js
+Deleting /home/arun/.mozilla/firefox/Crash Reports
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/minidumps
+Running firefox "http://gymkhana.iitb.ac.in/~hostel5/" &
+Sleeping 10 seconds while page is loading.
+19 pixels/keypress, 21 keypresses/scroll
+6 pixels/keypress, 40 keypresses/scroll
+Hostel5-Firefox-pgdn01.ppm 0 694 694 694
+Hostel5-Firefox-pgdn02.ppm 618 711 93 787
+Hostel5-Firefox-pgdn03.ppm 570 900 330 1117
+============================== 14:00:06 ==============================
+204 No matching request.
+============================== 14:00:36 ==============================
+204 No matching request.
+============================== 14:01:06 ==============================
+204 No matching request.
+============================== 14:01:36 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'Hostel5-Firefox', 'filename': 'hostel', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+^Cvncserver error (attempt 1 out of 3)
+^^VDeleting /home/arun/.mozilla/firefox/5jl15gj5.default/Cache
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/sessionstore.js
+Deleting /home/arun/.mozilla/firefox/Crash Reports
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/minidumps
+Running firefox "http://gymkhana.iitb.ac.in/~hostel5/" &
+Sleeping 10 seconds while page is loading.
+^^C^CTraceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+   _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 147, in browsershot
+    gui.start_browser(config, url, options)
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/__init__.py", line 142, in start_browser
+    time.sleep(10)
+KeyboardInterrupt
+============================== 14:19:54 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'Hostel5-Firefox', 'filename': 'hostel', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+raceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/__init__.py", line 134
+    if command == "lynx":
+    ^
+IndentationError: unexpected indent
+============================== 14:20:05 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Firefox', 'filename': 'chronus', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/__init__.py", line 134
+    if command == "lynx":
+    ^
+IndentationError: unexpected indent
+============================== 14:20:07 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1440, 'command': 'chrome', 'height': 900, 'browser': 'Chrome'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/__init__.py", line 134
+    if command == "lynx":
+    ^
+IndentationError: unexpected indent
+============================== 14:20:07 ==============================
+204 No matching request.
+============================== 14:20:37 ==============================
+204 No matching request.
+============================== 14:21:07 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'Hostel5-Firefox', 'filename': 'hostel', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/__init__.py", line 134
+    if command == "lynx":
+    ^
+IndentationError: unexpected indent
+============================== 14:21:18 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Firefox', 'filename': 'chronus', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/__init__.py", line 134
+    if command == "lynx":
+    ^
+IndentationError: unexpected indent
+============================== 14:21:19 ==============================
+'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1440, 'command': 'chrome', 'height': 900, 'browser': 'Chrome'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/__init__.py", line 134
+    if command == "lynx":
+    ^
+IndentationError: unexpected indent
+============================== 14:21:21 ==============================
+204 No matching request.
+============================== 14:21:51 ==============================
+204 No matching request.
+============================== 14:22:21 ==============================
+204 No matching request.
+============================== 14:22:51 ==============================
+204 No matching request.
+============================== 14:23:21 ==============================
+204 No matching request.
+============================== 14:23:51 ==============================
+204 No matching request.
+============================== 14:24:21 ==============================
+204 No matching request.
+============================== 14:24:51 ==============================
+204 No matching request.
+============================== 14:25:21 ==============================
+204 No matching request.
+============================== 14:25:51 ==============================
+204 No matching request.
+============================== 14:26:21 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'Hostel5-Firefox', 'filename': 'hostel', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/__init__.py", line 134
+    if command == "lynx":
+    ^
+IndentationError: unexpected indent
+============================== 14:27:45 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Firefox', 'filename': 'chronus', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+   _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/__init__.py", line 134
+    if command == "lynx":
+    ^
+IndentationError: unexpected indent
+============================== 14:27:48 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1440, 'command': 'chrome', 'height': 900, 'browser': 'Chrome'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+   _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/__init__.py", line 134
+    if command == "lynx":
+    ^
+IndentationError: unexpected indent
+============================== 14:27:50 ==============================
+204 No matching request.
+============================== 14:28:00 ==============================
+204 No matching request.
+============================== 14:28:10 ==============================
+204 No matching request.
+============================== 14:28:20 ==============================
+204 No matching request.
+^CTraceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 360, in _main
+    error_sleep("%d %s" % (fault.faultCode, fault.faultString))
+  File "shotfactory.py", line 180, in error_sleep
+    sleep()
+  File "shotfactory.py", line 61, in sleep
+    time.sleep(10)
+KeyboardInterrupt
+============================== 14:28:29 ==============================
+204 No matching request.
+============================== 14:28:39 ==============================
+204 No matching request.
+============================== 14:28:49 ==============================
+204 No matching request.
+============================== 14:28:59 ==============================
+204 No matching request.
+============================== 14:29:09 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'Hostel5-Firefox', 'filename': 'hostel', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Running firefox "http://gymkhana.iitb.ac.in/~hostel5/" &
+Sleeping 10 seconds while page is loading.
+Hostel5-Firefox-pgdn01.ppm 0 694 694 694
+Hostel5-Firefox-pgdn02.ppm 618 711 93 787
+Hostel5-Firefox-pgdn03.ppm 570 900 330 1117
+============================== 14:29:24 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Firefox', 'filename': 'chronus', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Running firefox "http://chronus.com/" &
+Sleeping 10 seconds while page is loading.
+Chronus-Firefox-pgdn01.ppm 0 694 694 694
+Chronus-Firefox-pgdn02.ppm 618 775 157 851
+Chronus-Firefox-pgdn03.ppm 376 775 399 1250
+Chronus-Firefox-pgdn04.ppm 376 685 309 1559
+Chronus-Firefox-pgdn05.ppm 648 900 252 1811
+============================= 14:29:41 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1440, 'command': 'chrome', 'height': 900, 'browser': 'Chrome'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/chrome.py", line 43
+    self.delete_if_exists(os.path.join(
+    ^
+IndentationError: unexpected indent
+============================== 14:29:59 ==============================
+204 No matching request.
+============================== 14:30:09 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'Hostel5-Firefox', 'filename': 'hostel', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Running firefox "http://gymkhana.iitb.ac.in/~hostel5/" &
+Sleeping 10 seconds while page is loading.
+Hostel5-Firefox-pgdn01.ppm 0 694 694 694
+Hostel5-Firefox-pgdn02.ppm 618 711 93 787
+Hostel5-Firefox-pgdn03.ppm 570 900 330 1117
+============================== 14:30:24 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Firefox', 'filename': 'chronus', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Running firefox "http://chronus.com/" &
+Sleeping 10 seconds while page is loading.
+Chronus-Firefox-pgdn01.ppm 0 694 694 694
+Chronus-Firefox-pgdn02.ppm 618 775 157 851
+Chronus-Firefox-pgdn03.ppm 376 775 399 1250
+Chronus-Firefox-pgdn04.ppm 376 685 309 1559
+Chronus-Firefox-pgdn05.ppm 648 900 252 1811
+============================== 14:30:41 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1440, 'command': 'chrome', 'height': 900, 'browser': 'Chrome'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/chrome.py", line 43
+    self.delete_if_exists(os.path.join(
+    ^
+IndentationError: unexpected indent
+============================== 14:30:57 ==============================
+204 No matching request.
+============================== 14:31:07 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'Hostel5-Firefox', 'filename': 'hostel', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/Cache
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/sessionstore.js
+Deleting /home/arun/.mozilla/firefox/Crash Reports
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/minidumps
+Running firefox "http://gymkhana.iitb.ac.in/~hostel5/" &
+Sleeping 10 seconds while page is loading.
+19 pixels/keypress, 21 keypresses/scroll
+6 pixels/keypress, 40 keypresses/scroll
+Hostel5-Firefox-pgdn01.ppm 0 694 694 694
+Hostel5-Firefox-pgdn02.ppm 618 711 93 787
+Hostel5-Firefox-pgdn03.ppm 570 900 330 1117
+============================== 14:31:22 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'Hostel5-Firefox', 'filename': 'hostel', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/Cache
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/sessionstore.js
+Deleting /home/arun/.mozilla/firefox/Crash Reports
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/minidumps
+Running firefox "http://gymkhana.iitb.ac.in/~hostel5/" &
+Sleeping 10 seconds while page is loading.
+^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B19 pixels/keypress, 21 keypresses/scroll
+6 pixels/keypress, 40 keypresses/scroll
+Hostel5-Firefox-pgdn01.ppm 0 694 694 694
+Hostel5-Firefox-pgdn02.ppm 618 711 93 787
+Hostel5-Firefox-pgdn03.ppm 570 900 330 1117
+============================== 14:31:38 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1440, 'command': 'chrome', 'height': 900, 'browser': 'Chrome'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/chrome.py", line 43
+    self.delete_if_exists(os.path.join(
+    ^
+IndentationError: unexpected indent
+============================== 14:51:32 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Firefox', 'filename': 'chronus', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/Cache
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/sessionstore.js
+Deleting /home/arun/.mozilla/firefox/Crash Reports
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/minidumps
+Running firefox "http://chronus.com/" &
+Sleeping 10 seconds while page is loading.
+19 pixels/keypress, 21 keypresses/scroll
+1 pixels/keypress, 40 keypresses/scroll
+Chronus-Firefox-pgdn01.ppm 0 694 694 694
+Chronus-Firefox-pgdn02.ppm 618 775 157 851
+Chronus-Firefox-pgdn03.ppm 376 775 399 1250
+Chronus-Firefox-pgdn04.ppm 376 685 309 1559
+Chronus-Firefox-pgdn05.ppm 648 900 252 1811
+============================== 14:51:49 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1440, 'command': 'chrome', 'height': 900, 'browser': 'Chrome'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/chrome.py", line 43
+    self.delete_if_exists(os.path.join(
+    ^
+IndentationError: unexpected indent
+============================== 14:51:53 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1440, 'command': 'chrome', 'height': 900, 'browser': 'Chrome'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/chrome.py", line 43
+    self.delete_if_exists(os.path.join(
+    ^
+IndentationError: unexpected indent
+============================== 14:51:54 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1440, 'command': 'chrome', 'height': 900, 'browser': 'Chrome'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/chrome.py", line 43
+    self.delete_if_exists(os.path.join(
+    ^
+IndentationError: unexpected indent
+============================== 14:51:55 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1440, 'command': 'chrome', 'height': 900, 'browser': 'Chrome'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/chrome.py", line 43
+    self.delete_if_exists(os.path.join(
+    ^
+IndentationError: unexpected indent
+============================== 14:51:56 ==============================
+204 No matching request.
+^[[A^CTraceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+   _main()
+  File "shotfactory.py", line 360, in _main
+    error_sleep("%d %s" % (fault.faultCode, fault.faultString))
+  File "shotfactory.py", line 180, in error_sleep
+    sleep()
+  File "shotfactory.py", line 61, in sleep
+    time.sleep(10)
+KeyboardInterrupt
+============================== 14:52:04 ==============================
+204 No matching request.
+============================== 14:52:14 ==============================
+204 No matching request.
+============================== 14:52:24 ==============================
+204 No matching request.
+============================== 14:52:34 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1440, 'command': 'chrome', 'height': 900, 'browser': 'Chrome'}
+============================== 14:54:04 ==============================
+204 No matching request.
+============================== 14:54:14 ==============================
+204 No matching request.
+============================== 14:54:24 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1440, 'command': 'chrome', 'height': 900, 'browser': 'Chrome'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/chrome.py", line 43
+    self.delete_if_exists(os.path.join(
+    ^
+IndentationError: unexpected indent
+============================== 14:54:29 ==============================
+204 No matching request.
+============================== 14:54:39 ==============================
+204 No matching request.
+============================== 14:54:49 ==============================
+204 No matching request.
+^X^CTraceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 360, in _main
+    error_sleep("%d %s" % (fault.faultCode, fault.faultString))
+  File "shotfactory.py", line 180, in error_sleep
+    sleep()
+  File "shotfactory.py", line 61, in sleep
+    time.sleep(10)
+KeyboardInterrupt
+============================== 14:54:58 ==============================
+204 No matching request.
+============================== 14:55:08 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1440, 'command': 'chrome', 'height': 900, 'browser': 'Chrome'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/__init__.py", line 134
+    if command == "lynx":
+    ^
+IndentationError: unexpected indent
+============================== 14:55:11 ==============================
+204 No matching request.
+============================== 14:55:21 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'Hostel5-Firefox', 'filename': 'hostel', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+raceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/__init__.py", line 134
+    if command == "lynx":
+    ^
+IndentationError: unexpected indent
+\============================== 14:55:26 ==============================
+204 No matching request.
+============================== 14:55:36 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Firefox', 'filename': 'chronus', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+raceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/__init__.py", line 134
+    if command == "lynx":
+    ^
+IndentationError: unexpected indent
+============================== 14:55:43 ==============================
+204 No matching request.
+============================== 14:55:53 ==============================
+204 No matching request.
+============================== 14:56:03 ==============================
+204 No matching request.
+^CTraceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 360, in _main
+    error_sleep("%d %s" % (fault.faultCode, fault.faultString))
+  File "shotfactory.py", line 180, in error_sleep
+    sleep()
+  File "shotfactory.py", line 61, in sleep
+    time.sleep(10)
+KeyboardInterrupt
+============================== 14:56:08 ==============================
+204 No matching request.
+============================== 14:56:18 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'Hostel5-Firefox', 'filename': 'hostel', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/Cache
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/sessionstore.js
+Deleting /home/arun/.mozilla/firefox/Crash Reports
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/minidumps
+Running firefox "http://gymkhana.iitb.ac.in/~hostel5/" &
+Sleeping 10 seconds while page is loading.
+Hostel5-Firefox-pgdn01.ppm 0 900 900 900
+============================== 14:56:32 ==============================
+204 No matching request.
+============================== 14:56:42 ==============================
+204 No matching request.
+============================== 14:56:52 ==============================
+204 No matching request.
+============================== 14:57:02 ==============================
+204 No matching request.
+============================== 14:57:12 ==============================
+204 No matching request.
+============================== 14:57:22 ==============================
+204 No matching request.
+============================== 14:57:32 ==============================
+204 No matching request.
+============================== 14:57:42 ==============================
+204 No matching request.
+============================== 14:57:52 ==============================
+204 No matching request.
+============================== 14:58:02 ==============================
+204 No matching request.
+============================== 14:58:12 ==============================
+204 No matching request.
+============================== 14:58:22 ==============================
+204 No matching request.
+^X^Craceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 360, in _main
+    error_sleep("%d %s" % (fault.faultCode, fault.faultString))
+  File "shotfactory.py", line 180, in error_sleep
+    sleep()
+  File "shotfactory.py", line 61, in sleep
+    time.sleep(10)
+KeyboardInterrupt
+============================== 15:05:27 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1440, 'command': 'chrome', 'height': 900, 'browser': 'Chrome'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/__init__.py", line 134
+    if command == "lynx":
+    ^
+IndentationError: unexpected indent
+============================== 15:05:28 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'Hostel5-Firefox', 'filename': 'hostel', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/__init__.py", line 134
+    if command == "lynx":
+    ^
+IndentationError: unexpected indent
+============================== 15:05:29 ==============================
+'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Firefox', 'filename': 'chronus', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Traceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 129, in browsershot
+    gui_module = __import__(module_name, globals(), locals(), ['non-empty'])
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/__init__.py", line 134
+    if command == "lynx":
+    ^
+IndentationError: unexpected indent
+============================== 15:05:29 ==============================
+204 No matching request.
+^[[A^CTraceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+   _main()
+  File "shotfactory.py", line 360, in _main
+    error_sleep("%d %s" % (fault.faultCode, fault.faultString))
+  File "shotfactory.py", line 180, in error_sleep
+    sleep()
+  File "shotfactory.py", line 61, in sleep
+    time.sleep(10)
+KeyboardInterrupt
+============================== 15:05:33 ==============================
+204 No matching request.
+============================== 15:05:43 ==============================
+204 No matching request.
+============================== 15:05:53 ==============================
+204 No matching request.
+============================== 15:06:03 ==============================
+204 No matching request.
+============================== 15:06:13 ==============================
+204 No matching request.
+============================== 15:06:23 ==============================
+204 No matching request.
+============================== 15:06:33 ==============================
+204 No matching request.
+============================== 15:06:43 ==============================
+204 No matching request.
+============================== 15:06:53 ==============================
+204 No matching request.
+============================== 15:07:03 ==============================
+204 No matching request.
+============================== 15:07:13 ==============================
+204 No matching request.
+============================== 15:07:23 ==============================
+204 No matching request.
+============================== 15:07:33 ==============================
+204 No matching request.
+^CTraceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 360, in _main
+    error_sleep("%d %s" % (fault.faultCode, fault.faultString))
+  File "shotfactory.py", line 180, in error_sleep
+    sleep()
+  File "shotfactory.py", line 61, in sleep
+    time.sleep(10)
+KeyboardInterrupt
+============================== 15:07:47 ==============================
+204 No matching request.
+============================== 15:07:57 ==============================
+204 No matching request.
+============================== 15:08:07 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'Hostel5-Firefox', 'filename': 'hostel', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/Cache
+Deleting /home/arun/.mozilla/firefox/Crash Reports
+Deleting /home/arun/.mozilla/firefox/5jl15gj5.default/minidumps
+Running firefox "http://gymkhana.iitb.ac.in/~hostel5/" &
+Sleeping 10 seconds while page is loading.
+^CTraceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 345, in _main
+    bytes = browsershot(options, server, config, options.password)
+  File "shotfactory.py", line 147, in browsershot
+    gui.start_browser(config, url, options)
+  File "/home/arun/browsershot/browsershots-read-only/shotfactory/shotfactory04/gui/linux/__init__.py", line 142, in start_browser
+    time.sleep(10)
+KeyboardInterrupt
+============================== 15:08:21 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1440, 'command': 'chrome', 'height': 900, 'browser': 'Chrome'}
+Running chrome "http://chronus.com/" &
+Sleeping 10 seconds while page is loading.
+Chronus-Chrome-pgdn01.ppm 0 900 900 900
+============================== 15:08:35 ==============================
+204 No matching request.
+============================== 15:08:45 ==============================
+204 No matching request.
+============================== 15:08:55 ==============================
+204 No matching request.
+============================== 15:09:05 ==============================
+204 No matching request.
+============================== 15:09:15 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1440, 'command': 'google-chrome', 'height': 900, 'browser': 'Chrome'}
+Running google-chrome "http://chronus.com/" &
+Sleeping 10 seconds while page is loading.
+Chronus-Chrome-pgdn01.ppm 0 900 900 900
+============================== 15:09:29 ==============================
+204 No matching request.
+============================== 15:09:39 ==============================
+204 No matching request.
+============================== 15:09:49 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1440, 'command': 'google-chrome', 'height': 900, 'browser': 'Chrome'}
+Running google-chrome "http://chronus.com/" &
+Sleeping 10 seconds while page is loading.
+40 pixels/keypress, 10 keypresses/scroll
+21 pixels/keypress, 19 keypresses/scroll
+Chronus-Chrome-pgdn01.ppm 0 715 715 715
+Chronus-Chrome-pgdn02.ppm 555 775 220 935
+Chronus-Chrome-pgdn03.ppm 375 730 355 1290
+Chronus-Chrome-pgdn04.ppm 512 900 388 1678
+============================== 15:10:05 ==============================
+204 No matching request.
+============================== 15:10:15 ==============================
+204 No matching request.
+^Craceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 360, in _main
+    error_sleep("%d %s" % (fault.faultCode, fault.faultString))
+  File "shotfactory.py", line 180, in error_sleep
+    sleep()
+  File "shotfactory.py", line 61, in sleep
+    time.sleep(10)
+KeyboardInterrupt
+============================== 15:12:10 ==============================
+{'bpp': 24, 'url': 'http://gymkhana.iitb.ac.in/~hostel5/', 'request': 'Hostel5-Firefox', 'filename': 'hostel-firefox', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Running firefox "http://gymkhana.iitb.ac.in/~hostel5/" &
+Sleeping 10 seconds while page is loading.
+Hostel5-Firefox-pgdn01.ppm 0 694 694 694
+Hostel5-Firefox-pgdn02.ppm 618 711 93 787
+Hostel5-Firefox-pgdn03.ppm 570 900 330 1117
+============================== 15:12:25 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Firefox', 'filename': 'chronus-firefox', 'width': 1440, 'command': 'firefox', 'height': 900, 'browser': 'Firefox'}
+Running firefox "http://chronus.com/" &
+Sleeping 10 seconds while page is loading.
+Chronus-Firefox-pgdn01.ppm 0 694 694 694
+Chronus-Firefox-pgdn02.ppm 618 775 157 851
+Chronus-Firefox-pgdn03.ppm 376 775 399 1250
+Chronus-Firefox-pgdn04.ppm 376 685 309 1559
+Chronus-Firefox-pgdn05.ppm 648 900 252 1811
+============================== 15:12:42 ==============================
+{'bpp': 24, 'url': 'http://chronus.com/', 'request': 'Chronus-Chrome', 'filename': 'chronus-chrome', 'width': 1440, 'command': 'google-chrome', 'height': 900, 'browser': 'Chrome'}
+Running google-chrome "http://chronus.com/" &
+Sleeping 10 seconds while page is loading.
+Chronus-Chrome-pgdn01.ppm 0 715 715 715
+Chronus-Chrome-pgdn02.ppm 555 775 220 935
+Chronus-Chrome-pgdn03.ppm 375 730 355 1290
+Chronus-Chrome-pgdn04.ppm 512 900 388 1678
+============================== 15:12:58 ==============================
+204 No matching request.
+^CTraceback (most recent call last):
+  File "shotfactory.py", line 368, in <module>
+    _main()
+  File "shotfactory.py", line 360, in _main
+    error_sleep("%d %s" % (fault.faultCode, fault.faultString))
+  File "shotfactory.py", line 180, in error_sleep
+    sleep()
+  File "shotfactory.py", line 61, in sleep
+    time.sleep(10)
+KeyboardInterrupt

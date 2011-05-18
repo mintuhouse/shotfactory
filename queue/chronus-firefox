@@ -1,0 +1,7 @@
+request Chronus-Firefox
+url http://chronus.com/
+width 1440
+height 900
+bpp 24
+browser Firefox
+command firefox

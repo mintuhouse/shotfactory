@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/3053/trunk/shotfactory
+END
+py2exe.bat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2261/trunk/shotfactory/py2exe.bat
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2261/trunk/shotfactory/AUTHORS
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3047/trunk/shotfactory/setup.py
+END
+STANDALONE
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2266/trunk/shotfactory/STANDALONE
+END
+ppmoffset.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2006/trunk/shotfactory/ppmoffset.py
+END
+shotfactory.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2690/trunk/shotfactory/shotfactory.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2261/trunk/shotfactory/README
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2001/trunk/shotfactory/favicon.ico
+END
+INSTALL.WIN
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2261/trunk/shotfactory/INSTALL.WIN
+END
+INSTALL.LINUX
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2261/trunk/shotfactory/INSTALL.LINUX
+END
+INSTALL.MAC
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2264/trunk/shotfactory/INSTALL.MAC
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2265/trunk/shotfactory/INSTALL
+END
+FAQ
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2261/trunk/shotfactory/FAQ
+END
+browsershot.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2006/trunk/shotfactory/browsershot.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2261/trunk/shotfactory/COPYING
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3048/trunk/shotfactory/Makefile
+END
